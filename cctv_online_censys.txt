@@ -1,0 +1,5 @@
+# Compiled by Andrei Costin ( andrei [at] firmware [dor] re )
+# Censys queries for finding camera/IPcam/CCTV/DVR/NVR/VSS systems
+# http://firmware.re/vulns
+# https://github.com/zveriu/cctv-ddns-shodan-censys
+

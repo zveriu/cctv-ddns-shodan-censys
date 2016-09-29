@@ -1,0 +1,10 @@
+# Compiled by Andrei Costin ( andrei [at] firmware [dor] re )
+# Generic DDNS services, sometimes used for camera/IPcam/CCTV/DVR/NVR/VSS systems
+# http://firmware.re/vulns
+# https://github.com/zveriu/cctv-ddns-shodan-censys
+
+http://ez-dns.com
+http://dyndns.com
+http://dyndns.org
+http://no-ip.org
+

@@ -1,0 +1,34 @@
+http://www.accessify.com/s/samsungipolis.com
+http://www.samsungipolis.com/HOMEDVR
+http://216.114.231.63/
+http://mn-10k-dhcp6-1856.dsl.hickorytech.net/
+
+################################################################################
+
+nslookup 216.114.231.63 bserver.hanwha.co.kr
+Server:		bserver.hanwha.co.kr
+Address:	218.146.34.200#53
+
+Non-authoritative answer:
+63.231.114.216.in-addr.arpa	name = mn-10k-dhcp6-1856.dsl.hickorytech.net.
+
+Authoritative answers can be found from:
+231.114.216.in-addr.arpa	nameserver = ns1.hickorytech.net.
+231.114.216.in-addr.arpa	nameserver = ns2.hickorytech.net.
+ns1.hickorytech.net	internet address = 216.114.192.111
+ns2.hickorytech.net	internet address = 74.115.181.152
+
+################################################################################
+
+nslookup 216.114.231.63 ns1.hickorytech.net
+Server:		ns1.hickorytech.net
+Address:	2605:9400:a::111#53
+
+63.231.114.216.in-addr.arpa	name = mn-10k-dhcp6-1856.dsl.hickorytech.net.
+
+################################################################################
+
+http://ping.eu/rev-lookup/
+
+################################################################################
+

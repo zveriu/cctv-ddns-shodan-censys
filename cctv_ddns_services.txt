@@ -1,0 +1,24 @@
+# Compiled by Andrei Costin ( andrei [at] firmware [dor] re )
+# DDNS services specifically designed for camera/IPcam/CCTV/DVR/NVR/VSS systems
+# http://firmware.re/vulns
+# https://github.com/zveriu/cctv-ddns-shodan-censys
+
+http://everfocusddns.com
+http://hostname.everfocusddns.com
+http://simpleddns.com
+http://www.simpleddns.com/test12345
+http://dvrlists.com/
+http://www.hik-online.com
+http://www.hrgdvr-ddns.com
+http://dvrlink.net/
+http://dvrlink.net/webdvr/viewer.htm
+http://i-dvr.net
+http://www.g4ip.com
+https://myq-see.com/reg.aspx
+http://hwddns.com
+http://provision-isr-dns.com/
+http://www.eagleeyedvr.com/users/
+http://www.eedvr.com
+http://www.samsungioplis.com
+http://www.samsungipolis.com/HOMEDVR
+

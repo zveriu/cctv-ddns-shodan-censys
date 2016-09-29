@@ -1,0 +1,22 @@
+# Compiled by Andrei Costin ( andrei [at] firmware [dor] re )
+# PDF guides documenting the use and configuration of DDNS services 
+# specifically designed for camera/IPcam/CCTV/DVR/NVR/VSS systems
+# http://firmware.re/vulns
+# https://github.com/zveriu/cctv-ddns-shodan-censys
+
+https://www.google.fr/search?q=dvr+ddns+filetype%3Apdf
+http://www.everfocus.com/uploaded_files/DDNSsetup.pdf
+http://www.wboxtech.com/docs/Configure-DDNS-Settings.pdf
+http://www2.ltsecurityinc.com/upload/editorSource/ed91295a044cada6dcfbb8b63b101549.pdf
+http://www.hikvision.com/UploadFile/File/2014331153349607.pdf
+https://www.honeywellvideo.com/documents/800-12650_hrgDDNS_Support_Application_Note.pdf
+https://www.honeywellvideo.com/documents/HREP_Series_DVR_DDNS_Configuration_Application-Note.pdf
+http://www.iviewtech.com/ivt6/iViewDVRdyndns.pdf
+http://www.idview.com/idview/supports/faqs/dvrs/i-dvr_ddns_setup.pdf
+https://system.netsuite.com/core/media/media.nl%3Fid%3D657%26c%3D405831%26h%3Dea1ac6f9da0e5438f0a6%26_xt%3D.pdf%26ext%3DF
+http://qsee.custhelp.com/ci/fattach/get/61/1307978063/redirect/1/session/L2F2LzEvdGltZS8xNDc1MDA5Mzk2L3NpZC85VjR1c0lfbQ==/filename/S-How%20to%20setup%20MYQ-SEE%20DDNS.pdf
+https://www.security.honeywell.com/me/documents/800-02572_RevA.pdf
+ftp://ftp.loks.lv/IP%20solution/%23%20Provision-ISR/DVD%20RW%20Drive/DDNS%20setting%20instructions/DDNS_Provision_ISR_EN.pdf
+http://users.eagleeyedvr.com/EzDNS-userguide.pdf
+https://www.samsungsv.com/Download/SDE-5003-Network-Setup-Guide.pdf
+

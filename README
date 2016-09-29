@@ -1,0 +1,86 @@
+*** Intro ***
+
+Compiled by Andrei Costin ( andrei [at] firmware [dor] re )
+Shodan queries for finding camera/IPcam/CCTV/DVR/NVR/VSS systems
+http://firmware.re/vulns
+https://github.com/zveriu/cctv-ddns-shodan-censys
+
+My latest estimates are 1M+ systems/IP being returned by these queries. 
+
+The systems found using these queries are most likely used in projects like:
+http://insecam.org/
+http://www.forbes.com/sites/thomasbrewster/2016/09/25/brian-krebs-overwatch-ovh-smashed-by-largest-ddos-attacks-ever/#71fa21af6fb6
+
+
+*** License/Credits ***
+
+You are free to use this data in whatever way you want.
+I would greatly appreciate if you do cite the following works when using 
+this data or results obtained using this data (in part or in whole):
+
+@inproceedings{costin2016security,
+  title={Security of CCTV and Video Surveillance Systems: Threats, Vulnerabilities, Attacks, and Mitigations},
+  author={Costin, Andrei},
+  booktitle={TrustED'16: International Workshop on Trustworthy Embedded Devices Proceedings},
+  year={2016}
+}
+
+@inproceedings{costin2014large,
+  title={A Large Scale Analysis of the Security of Embedded Firmwares},
+  author={Costin, Andrei and Zaddach, Jonas and Francillon, Aur{\'e}lien and Balzarotti, Davide and Antipolis, Sophia},
+  booktitle={USENIX Security Symposium},
+  year={2014},
+  organization={USENIX}
+}
+
+@article{con-poc2013,
+  year={2013},
+  author={Costin, Andrei},
+  title={{Poor Man's Panopticon -- Mass CCTV Surveillance for the Masses}},
+  booktitle={{PowerOfCommunity}}
+  howpublished="\url{http://www.powerofcommunity.net/poc2013/slide/andrei.pdf‎}"
+}
+
+
+
+*** Description ***
+
+cctv_online_shodan.txt
+    List of queries to be used with Shodan to locate online 
+    camera/IPcam/CCTV/DVR/NVR/VSS systems.
+    My latest estimates are 1M+ systems/IP being returned by these queries. 
+    Preferably to be used via API, e.g.,:
+    https://github.com/achillean/shodan-python
+    
+cctv_online_censys.txt
+    List of queries to be used with Censys to locate online 
+    camera/IPcam/CCTV/DVR/NVR/VSS systems.
+
+
+cctv_ddns_docs.txt
+    List of PDF guides documenting the use and configuration of DDNS for 
+    CCTV systems.
+
+
+cctv_ddns_services.txt
+    List of DDNS services that are intended/advertised particularly for 
+    CCTV systems. NOTE: this does not prevent these DDNS to host systems/pages 
+    that are totally unrelated to CCTV.
+
+    This list ideally would be used as input for TLDR (TLD records) project:
+    https://github.com/mandatoryprogrammer/TLDR
+
+
+generic_ddns_services.txt
+    List of DDNS services that are generic, and can host CCTV systems as well.
+
+    This list ideally would be used as input for TLDR (TLD records) project:
+    https://github.com/mandatoryprogrammer/TLDR
+
+
+*** Notes ***
+Patches and more data or insights are more than welcome :)!
+
+Author is disclaimed for any use, abuse, misuse, whatever-use of the data 
+herein.
+
